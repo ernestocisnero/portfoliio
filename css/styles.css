@@ -696,8 +696,8 @@ input[type="checkbox"] {
 
 .project-visit{
   text-decoration: none;
-  font-size: 1rem;
-  color: #0b36a8;
+  padding:2px 0 2px 0;
+  font-size: 1.5rem;
   font-weight: 800;
   line-height: 0;
 }
@@ -707,6 +707,7 @@ input[type="checkbox"] {
 /*****************/
 /*     Works     */
 /*****************/
+
 .basic-4 {
   padding-bottom: 1rem;
 }
